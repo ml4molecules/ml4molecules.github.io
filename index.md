@@ -31,6 +31,8 @@ We will provide a link to an electronic submission system in due course.
 - Author notification: 23. October 2020
 - Workshop: 11. or 12. December 2020
 
+## Schedule
+To be announced.
 
 ## Organizing Committee
 

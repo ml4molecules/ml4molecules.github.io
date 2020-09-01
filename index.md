@@ -1,10 +1,10 @@
-# 2020 Machine Learning for Molecules Workshop @ NeurIPS
+# 2020 Machine Learning for Molecules Workshop
 
 ## About
 
 More infos soon...
 
-## invited Speakers
+## Invited Speakers
 
 - Benjamin Sanchez-Lengeling (Google Research)
 - Frank Noé (FU Berlin)
@@ -16,7 +16,16 @@ More infos soon...
 
 ## Call for Papers
 
+More infos soon...
+
+
 ### Submission Instructions
+Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles)
+]. References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. Papers have to be submitted as anonymised PDF. 
+We will provide a link to an electronic submission system in due course.
+
+
+
 ## Important Dates
 - Submission Deadline: 5. October 2020 25:59 AOE
 - Author notification: 23. October 2020

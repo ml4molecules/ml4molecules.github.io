@@ -37,6 +37,6 @@ To be announced.
 
 - Brooks Paige
 - Jennifer Wei
-- José Miguel Hernández Lobato
+- José Miguel Hernández-Lobato
 - Marwin Segler
 - Matt Kusner

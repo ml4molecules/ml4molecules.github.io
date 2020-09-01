@@ -1,37 +1,32 @@
-## 2020 Machine Learning for Molecules Workshop @ NeurIPS
+# 2020 Machine Learning for Molecules Workshop @ NeurIPS
 
-You can use the [editor on GitHub](https://github.com/ml4molecules/ml4molecules.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+## About
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+More infos soon...
 
-### Markdown
+## invited Speakers
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Benjamin Sanchez-Lengeling (Google Research)
+- Frank Noé (FU Berlin)
+- Jennifer Listgarten (UC Berkeley)
+- Nadine Schneider (Novartis)
+- Pat Walters (Relay Therapeutics)
+- Regina Barzilay (MIT)
+- Yannick Djoumbou Feunang (Corteva Agriscience)
 
-```markdown
-Syntax highlighted code block
+## Call for Papers
 
-# Header 1
-## Header 2
-### Header 3
+### Submission Instructions
+## Important Dates
+- Submission Deadline: 5. October 2020 25:59 AOE
+- Author notification: 23. October 2020
+- Workshop: 11. or 12. December 2020
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Organizing Committee
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ml4molecules/ml4molecules.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- Brooks Paige
+- Jennifer Wei
+- José Miguel Hernández Lobato
+- Marwin Segler
+- Matt Kusner

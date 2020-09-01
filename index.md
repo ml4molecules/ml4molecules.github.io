@@ -20,8 +20,7 @@ More infos soon...
 
 
 ### Submission Instructions
-Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles)
-]. References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. Papers have to be submitted as anonymised PDF. 
+Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. Papers have to be submitted as anonymised PDF. 
 We will provide a link to an electronic submission system in due course.
 
 

@@ -47,7 +47,7 @@ Work that is presented at the main NeurIPS conference or has been published at o
 ### Submission Instructions
 Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. 
 
-**Papers should be anonymised for review**, and submitted through the [EasyChair](https://easychair.org/conferences/?conf=ml4molecules2020) workshop page.
+**Papers have to be anonymised for review**, and submitted through the [EasyChair](https://easychair.org/conferences/?conf=ml4molecules2020) workshop page.
 
 
 ## Important Dates

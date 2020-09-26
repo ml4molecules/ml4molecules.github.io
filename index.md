@@ -19,7 +19,7 @@ The Machine Learning for Molecules 2020 workshop will be held on December 11 or 
 - Jennifer Listgarten (UC Berkeley)
 - Nadine Schneider (Novartis)
 - Pat Walters (Relay Therapeutics)
-- Regina Barzilay (MIT)
+- Rocio Mercado (AstraZeneca)
 - Yannick Djoumbou Feunang (Corteva Agriscience)
 - TBA
 

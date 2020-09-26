@@ -51,7 +51,7 @@ Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.
 
 
 ## Important Dates
-- Submission Deadline: 5. October 2020 25:59 AOE
+- Submission Deadline: 5. October 2020 23:59 Anywhere on earth
 - Author notification: 23. October 2020
 - Workshop: 11. or 12. December 2020
 

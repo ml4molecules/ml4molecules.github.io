@@ -41,7 +41,7 @@ The 2020 NeurIPS Workshop on Machine Learning for Molecules calls for high quali
 - Any other topic related to the workshop theme
 
 We call for the submission of breaking edge, high-quality work in progress in the form of extended abstracts or short communication papers, however, finalized projects will also be considered. 
-Work that is presented at the main NeurIPS conference or has been published at other peer-reviewed venues or journals will not be accepted in the workshop. Submissions will be accepted as contributed talks or poster presentations. Accepted final versions will be posted on the workshop website (and are archival but do not constitute a proceedings).
+Work that is presented at the main NeurIPS conference or has been published at other peer-reviewed venues or journals will not be accepted in the workshop. Submissions will be accepted as contributed talks or poster presentations. Accepted final versions will be posted and archived on the workshop website (but do not constitute a proceedings, and can be submitted to other venues/journals).
 
 
 ### Submission Instructions

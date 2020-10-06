@@ -9,8 +9,10 @@ In the last decade, progress in machine learning has largely taken place in doma
 Because of this, there has been a flurry of recent work towards designing machine learning techniques for molecule data. These works have drawn inspiration from and made significant contributions to various areas of machine learning. Recent advances enabled the acceleration of molecular dynamics simulations, increased the efficiency of density based quantum mechanical modeling methods and contributed to accelerate the design of new molecules with optimal properties. This growing field offers unique opportunities for machine learning researchers and practitioners, as it presents a wide spectrum of challenges and open questions, including but not limited to representations of physical systems, physically constrained models, manifold learning, generative modeling of data, interpretability, reliability, model bias, and causality.
 
 The goal of this workshop is to bring together researchers interested in improving applications of  machine learning for chemical and physical problems and industry experts with practical experience in pharmaceutical and agricultural development. In a highly interactive format, we will outline the current frontiers and present emerging research directions. We aim to use this workshop as an opportunity to establish a common language between all communities, to actively discuss new research problems, and also to collect datasets by which novel machine learning models can be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers from both fields and also engage open participant conversation. An expected outcome of this workshop is the interdisciplinary exchange of ideas and initiation of collaboration.
-### NeurIPS 2020
-The Machine Learning for Molecules 2020 workshop will be held on December 11 or 12, 2020 as a part of the 34th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please check the main conference [website](https://neurips.cc) for the latest information.
+### NeurIPS 2020 and Registration
+The Machine Learning for Molecules 2020 workshop will be held on December 11 or 12, 2020 as a part of the 34th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please check the main conference [website](https://neurips.cc) for the latest information. 
+To participate in the workshop, please register for the workshops via the main conference website.
+
 
 ## Invited Speakers
 
@@ -45,7 +47,7 @@ Work that is presented at the main NeurIPS conference or has been published at o
 
 
 ### Submission Instructions
-Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. 
+Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.cc/Conferences/2020/PaperInformation/StyleFiles). References do not count towards the page limit. Appendices are discouraged and reviewers will not be required to read beyond the 4 page limit. A broader impact statement is not required.
 
 **Papers have to be anonymised for review**, and submitted through the [EasyChair](https://easychair.org/conferences/?conf=ml4molecules2020) workshop page.
 
@@ -58,7 +60,9 @@ Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.
 ## Schedule
 To be announced.
 
-## Organizing Committee
+## Organizing Committee and Contact
+
+for questions, please contact ml4moleculesworkshop2020@gmail.com
 
 - Brooks Paige
 - Jennifer Wei

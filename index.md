@@ -1,5 +1,7 @@
 # 2020 Machine Learning for Molecules Workshop
 
+[Accepted Papers](papers.md) [Schedule](#schedule)
+
 ## About
 
 Discovering new molecules and materials is a central pillar of human well-being, providing new medicines, securing the world’s food supply via agrochemicals, or delivering new battery or solar panel materials to mitigate climate change. However, the discovery of new molecules for an application can often take up to a decade, with costs spiralling. Machine learning can help to accelerate molecular discovery, which is especially important in light of the Covid19 crisis where drugs/vaccines must be developed to return to normalcy. To reach this goal, it is necessary to have a dialogue between domain experts and machine learning researchers to ensure ML has impact in real world molecular discovery.
@@ -10,8 +12,7 @@ Because of this, there has been a flurry of recent work towards designing machin
 
 The goal of this workshop is to bring together researchers interested in improving applications of  machine learning for chemical and physical problems and industry experts with practical experience in pharmaceutical and agricultural development. In a highly interactive format, we will outline the current frontiers and present emerging research directions. We aim to use this workshop as an opportunity to establish a common language between all communities, to actively discuss new research problems, and also to collect datasets by which novel machine learning models can be benchmarked. The program is a collection of invited talks, alongside contributed posters. A panel discussion will provide different perspectives and experiences of influential researchers from both fields and also engage open participant conversation. An expected outcome of this workshop is the interdisciplinary exchange of ideas and initiation of collaboration.
 ### NeurIPS 2020 and Registration
-The Machine Learning for Molecules 2020 workshop will be held on December 11 or 12, 2020 as a part of the 34th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please check the main conference [website](https://neurips.cc) for the latest information. 
-To participate in the workshop, please register for the workshops via the main conference website.
+The Machine Learning for Molecules 2020 workshop will be held on December 12, 2020 as a part of the 34th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please use the main conference [website](https://neurips.cc) to register for the workshop.
 
 
 ## Invited Speakers
@@ -23,7 +24,7 @@ To participate in the workshop, please register for the workshops via the main c
 - Pat Walters (Relay Therapeutics)
 - Rocio Mercado (AstraZeneca)
 - Yannick Djoumbou Feunang (Corteva Agriscience)
-- TBA
+- Klaus-Robert Müller (TU Berlin / Google Research)
 
 ## Call for Papers
 
@@ -55,10 +56,10 @@ Submissions should be no longer than 4 pages in [NeurIPS style](https://neurips.
 ## Important Dates
 - Submission Deadline (extended!): 8. October 2020 23:59 Anywhere on earth
 - Author notification: 27. October 2020
-- Workshop: 11. or 12. December 2020
+- Workshop: 12. December 2020
 
 ## Schedule
-To be announced.
+[See NeurIPS website](https://neurips.cc/virtual/2020/public/workshop_16136.html)
 
 ## Organizing Committee and Contact
 

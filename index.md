@@ -1,6 +1,6 @@
 # 2020 Machine Learning for Molecules Workshop
 
-[Accepted Papers](papers.md) [Schedule](#schedule)
+[Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
 
 ## About
 

@@ -1,74 +1,74 @@
-| Title |
-| --- | 
-[Deep spatial learning with molecular vibration](ML4Molecules_2020_paper_1.pdf)
-[De novo design of small molecules against drug targets of central nervous system using multi-property optimization](ML4Molecules_2020_paper_2.pdf)
-[MoLGNN: Self-Supervised Motif Learning Graph Neural Network for Drug Discovery](ML4Molecules_2020_paper_4.pdf)
-[Multi-View Graph Neural Networks for Molecular Property Prediction](ML4Molecules_2020_paper_5.pdf)
-[Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties](ML4Molecules_2020_paper_6.pdf)
-[Adversarial Stein Training for Graph Energy Models](ML4Molecules_2020_paper_7.pdf)
-[Hyperbolic Molecular Representation Learning for Drug Repositioning](ML4Molecules_2020_paper_8.pdf)
-[Identifying Nanoparticle Geometry from Emissivity](ML4Molecules_2020_paper_9.pdf)
-[High throughput screening with machine learning](ML4Molecules_2020_paper_10.pdf)
-[Gaussian Process Molecular Property Prediction with FlowMO](ML4Molecules_2020_paper_11.pdf)
-[Design of Experiments for Verifying Biomolecular Networks](ML4Molecules_2020_paper_12.pdf)
-[Masked Graph Modeling for Molecule Generation](ML4Molecules_2020_paper_13.pdf)
-[Improving Generalizability of Protein Sequence Models With Data Augmentations](ML4Molecules_2020_paper_14.pdf)
-[Structured Multi-View Representations for Drug Combinations](ML4Molecules_2020_paper_15.pdf)
-[Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures](ML4Molecules_2020_paper_16.pdf)
-[Supervised Topic Modeling for Predicting Chemical Substructure from Mass Spectrometry](ML4Molecules_2020_paper_17.pdf)
-[Interpretable Learning of Complex Multicomponent Adsorption Equilibria from Self-attention](ML4Molecules_2020_paper_18.pdf)
-[Completion of partial reaction equations](ML4Molecules_2020_paper_19.pdf)
-[Towards Integrating Structure-Based Design with Deep Generative Models](ML4Molecules_2020_paper_20.pdf)
-[Data augmentation strategies to improve reaction yield predictions and estimate uncertainty](ML4Molecules_2020_paper_21.pdf)
-[Auto-Encoding Molecular Conformations](ML4Molecules_2020_paper_22.pdf)
-[Deep Uncertainty and the Search for Proteins](ML4Molecules_2020_paper_23.pdf)
-[Learning with Molecules beyond Graph Neural Networks](ML4Molecules_2020_paper_24.pdf)
-[Flow-Based Models for Active Molecular Graph Generation](ML4Molecules_2020_paper_25.pdf)
-[Designing a Prospective COVID-19 Therapeutic with Reinforcement Learning](ML4Molecules_2020_paper_26.pdf)
-[Transformer based Molecule Encoding for Property Prediction](ML4Molecules_2020_paper_27.pdf)
-[Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation](ML4Molecules_2020_paper_28.pdf)
-[Hierarchical Clustering Analysis of Spectral Fingerprints for Cheminformatics](ML4Molecules_2020_paper_29.pdf)
-[Energy-based View of Retrosynthesis](ML4Molecules_2020_paper_30.pdf)
-[Evidential Deep Learning for Guided Molecular Property Prediction and Discovery](ML4Molecules_2020_paper_31.pdf)
-[Differentiable Molecular Simulations for Learning and Control](ML4Molecules_2020_paper_32.pdf)
-[A Probabilistic Model for Molecular Geometry Generation and Optimization](ML4Molecules_2020_paper_33.pdf)
-[3D Molecular Design with Covariant Neural Networks](ML4Molecules_2020_paper_34.pdf)
-[Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules](ML4Molecules_2020_paper_35.pdf)
-[Message Passing Networks for Molecules with Tetrahedral Chirality](ML4Molecules_2020_paper_36.pdf)
-[Constrained Deep Generative Linker Design Using 3D Structural Priors](ML4Molecules_2020_paper_37.pdf)
-[Going full hyper: hyperbolic and hypercomplex graph embeddings for ADMET modeling](ML4Molecules_2020_paper_38.pdf)
-[Making Graph Neural Networks Worth It for Low-Data Molecular Machine Learning](ML4Molecules_2020_paper_39.pdf)
-[A Kernel based Machine Learning Approach to Computing Quasiparticle Energies within Many-Body Green’s Functions Theory](ML4Molecules_2020_paper_40.pdf)
-[Learning Latent Space Energy-Based Prior Model for Molecule Generation](ML4Molecules_2020_paper_41.pdf)
-[RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning](ML4Molecules_2020_paper_42.pdf)
-[Protein model quality assessment using rotation-equivariant, hierarchical neural networks](ML4Molecules_2020_paper_43.pdf)
-[Learning from Protein Structure with Geometric Vector Perceptrons](ML4Molecules_2020_paper_44.pdf)
-[Explaining Deep Graph Networks with Molecular Counterfactuals](ML4Molecules_2020_paper_45.pdf)
-[3DMolNet: A Generative Network for Molecular Structures](ML4Molecules_2020_paper_46.pdf)
-[DeepDFT: Neural Message Passing Network for Accurate Charge Density Prediction](ML4Molecules_2020_paper_47.pdf)
-[Lipophilicity Prediction with Multitask Learning and Molecular Substructures Representation](ML4Molecules_2020_paper_48.pdf)
-[Using Graph Neural Networks for Mass Spectrum Prediction](ML4Molecules_2020_paper_50.pdf)
-[Crystal Structure Search with Random Relaxations Using Graph Networks](ML4Molecules_2020_paper_51.pdf)
-[Conditional generation of molecules from disentangled representations](ML4Molecules_2020_paper_52.pdf)
-[Enzyme Promiscuity Prediction using Hierarchical Multi-Label Classification](ML4Molecules_2020_paper_53.pdf)
-[Comparison of Atom Representations in Graph Neural Networks for Molecular Property Prediction](ML4Molecules_2020_paper_54.pdf)
-[Gini in a Bottleneck: Sparse Molecular Representations for Graph Convolutional Neural Networks](ML4Molecules_2020_paper_55.pdf)
-[Black box recursive translations for molecular optimization](ML4Molecules_2020_paper_56.pdf)
-[Multi-task learning for electronic structure to predict and explore molecular potential energy surfaces](ML4Molecules_2020_paper_57.pdf)
-[Multi-task Bayesian Optimization of Chemical Reactions](ML4Molecules_2020_paper_58.pdf)
-[Accelerate the screening of complex materials by learning to reduce random and systematic errors](ML4Molecules_2020_paper_59.pdf)
-[Predicting Synergistic Drug Combinations for COVID with Biological Bottleneck Models](ML4Molecules_2020_paper_60.pdf)
-[Deep Neural Network Approach to Predict Properties of Drugs and Drug-Like Molecules](ML4Molecules_2020_paper_61.pdf)
-[Curiosity in exploring chemical space: Intrinsic rewards for molecular reinforcement learning](ML4Molecules_2020_paper_62.pdf)
-[Data-driven Learning of Geometric Scattering Networks](ML4Molecules_2020_paper_63.pdf)
-[Bayesian GNNs for Molecular Property Prediction](ML4Molecules_2020_paper_64.pdf)
-[Evaluating chemical descriptors with the loss-data framework](ML4Molecules_2020_paper_65.pdf)
-[Deep Molecular Dreaming: Inverse machine learning for de-novo molecular design with surjective representations](ML4Molecules_2020_paper_66.pdf)
-[ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction](ML4Molecules_2020_paper_67.pdf)
-[Graph Neural Network for Metal Organic Framework Potential Energy Approximation](ML4Molecules_2020_paper_68.pdf)
-[Towards explainable message passing networks for predicting carbon dioxide adsorption in metal-organic frameworks](ML4Molecules_2020_paper_69.pdf)
-[Combining variational autoencoder representations with structural descriptors improves prediction of docking scores](ML4Molecules_2020_paper_70.pdf)
-[RetroGNN: Approximating Retrosynthesis by Graph Neural Networks for De Novo Drug Design](ML4Molecules_2020_paper_72.pdf)
-[De Novo Drug Design with a Docking Score Proxy](ML4Molecules_2020_paper_73.pdf)
-[Molecular representation learning with language models and domain-relevant auxiliary tasks](ML4Molecules_2020_paper_74.pdf)
-[Attention-Based Learning on Molecular Ensembles](ML4Molecules_2020_paper_75.pdf)
+| Title | pdf |
+| --- | --- |
+| Ziyang Zhang and Yingtao Luo. Deep spatial learning with molecular vibration | [ML4Molecules_2020_paper_1.pdf](ML4Molecules_2020_paper_1.pdf) |
+| Navneet Bung, Sowmya Ramaswamy Krishnan and Arijit Roy. De novo design of small molecules against drug targets of central nervous system using multi-property optimization | [ML4Molecules_2020_paper_2.pdf](ML4Molecules_2020_paper_2.pdf) |
+| Xiaoke Shen, Yang Liu, You Wu and Lei Xie. MoLGNN: Self-Supervised Motif Learning Graph Neural Network for Drug Discovery | [ML4Molecules_2020_paper_4.pdf](ML4Molecules_2020_paper_4.pdf) |
+| Hehuan Ma, Yatao Bian, Yu Rong, Wenbing Huang, Tingyang Xu, Weiyang Xie, Geyan Ye and Junzhou Huang. Multi-View Graph Neural Networks for Molecular Property Prediction | [ML4Molecules_2020_paper_5.pdf](ML4Molecules_2020_paper_5.pdf) |
+| Benjamin Kurt Miller, Mario Geiger, Tess E. Smidt and Frank Noé. Relevance of Rotationally Equivariant Convolutions for Predicting Molecular Properties | [ML4Molecules_2020_paper_6.pdf](ML4Molecules_2020_paper_6.pdf) |
+| Shivshankar. Adversarial Stein Training for Graph Energy Models | [ML4Molecules_2020_paper_7.pdf](ML4Molecules_2020_paper_7.pdf) |
+| Ke Yu, Shyam Visweswaran and Kayhan Batmanghelich. Hyperbolic Molecular Representation Learning for Drug Repositioning | [ML4Molecules_2020_paper_8.pdf](ML4Molecules_2020_paper_8.pdf) |
+| Chloe Ching-Yun Hsu and Samuel Gleason. Identifying Nanoparticle Geometry from Emissivity | [ML4Molecules_2020_paper_9.pdf](ML4Molecules_2020_paper_9.pdf) |
+| Oleksandr Gurbych, Maksym Druchok, Dzvenymyra Yarish and Sofiya Garkot. High throughput screening with machine learning | [ML4Molecules_2020_paper_10.pdf](ML4Molecules_2020_paper_10.pdf) |
+| Henry Moss and Ryan-Rhys Griffiths. Gaussian Process Molecular Property Prediction with FlowMO | [ML4Molecules_2020_paper_11.pdf](ML4Molecules_2020_paper_11.pdf) |
+| Ruby Sedgwick, John Goertz, Ruth Misener, Molly Stevens and Mark van der Wilk. Design of Experiments for Verifying Biomolecular Networks | [ML4Molecules_2020_paper_12.pdf](ML4Molecules_2020_paper_12.pdf) |
+| Omar Mahmood, Elman Mansimov, Richard Bonneau and Kyunghyun Cho. Masked Graph Modeling for Molecule Generation | [ML4Molecules_2020_paper_13.pdf](ML4Molecules_2020_paper_13.pdf) |
+| Hongyu Shen, Layne Price, Taha Bahadori and Franziska Seeger. Improving Generalizability of Protein Sequence Models With Data Augmentations | [ML4Molecules_2020_paper_14.pdf](ML4Molecules_2020_paper_14.pdf) |
+| Shengchao Liu, Andreea Deac, Zhaocheng Zhu and Jian Tang. Structured Multi-View Representations for Drug Combinations | [ML4Molecules_2020_paper_15.pdf](ML4Molecules_2020_paper_15.pdf) |
+| Shuo Zhang, Yang Liu and Lei Xie. Molecular Mechanics-Driven Graph Neural Network with Multiplex Graph for Molecular Structures | [ML4Molecules_2020_paper_16.pdf](ML4Molecules_2020_paper_16.pdf) |
+| Gabriel Reder, Jaan Altosaar, Jakub Rajniak, Noemie Elhadad, Susan Holmes and Michael Fischbach. Supervised Topic Modeling for Predicting Chemical Substructure from Mass Spectrometry | [ML4Molecules_2020_paper_17.pdf](ML4Molecules_2020_paper_17.pdf) |
+| Yangzesheng Sun, Tyler R. Josephson and J. Ilja Siepmann. Interpretable Learning of Complex Multicomponent Adsorption Equilibria from Self-attention | [ML4Molecules_2020_paper_18.pdf](ML4Molecules_2020_paper_18.pdf) |
+| Alain C. Vaucher, Philippe Schwaller and Teodoro Laino. Completion of partial reaction equations | [ML4Molecules_2020_paper_19.pdf](ML4Molecules_2020_paper_19.pdf) |
+| Morgan Thomas, Rob Smith, Noel O'Boyle, Chris De Graaf and Andreas Bender. Towards Integrating Structure-Based Design with Deep Generative Models | [ML4Molecules_2020_paper_20.pdf](ML4Molecules_2020_paper_20.pdf) |
+| Philippe Schwaller, Alain Vaucher, Teodoro Laino and Jean-Louis Reymond. Data augmentation strategies to improve reaction yield predictions and estimate uncertainty | [ML4Molecules_2020_paper_21.pdf](ML4Molecules_2020_paper_21.pdf) |
+| Robin Winter, Frank Noé and Djork-Arné Clevert. Auto-Encoding Molecular Conformations | [ML4Molecules_2020_paper_22.pdf](ML4Molecules_2020_paper_22.pdf) |
+| Zelda Mariet, Ghassen Jerfel, Zi Wang, Christof Angermuller, David Belanger, Suhani Vora, Maxwell Bileschi, Lucy Colwell, D Sculley, Dustin Tran and Jasper Snoek. Deep Uncertainty and the Search for Proteins | [ML4Molecules_2020_paper_23.pdf](ML4Molecules_2020_paper_23.pdf) |
+| Gustav Šourek, Filip Zelezny and Ondřej Kuželka. Learning with Molecules beyond Graph Neural Networks | [ML4Molecules_2020_paper_24.pdf](ML4Molecules_2020_paper_24.pdf) |
+| Nathan Frey and Bharath Ramsundar. Flow-Based Models for Active Molecular Graph Generation | [ML4Molecules_2020_paper_25.pdf](ML4Molecules_2020_paper_25.pdf) |
+| Marcin Skwark, Nicolas Lopez Carranza, Thomas Pierrot, Joe Phillips, Slim Said, Alexandre Laterre, Amine Kerkeni, Ugur Sahin and Karim Beguir. Designing a Prospective COVID-19 Therapeutic with Reinforcement Learning | [ML4Molecules_2020_paper_26.pdf](ML4Molecules_2020_paper_26.pdf) |
+| Prateeth Nayak, Andrew Silberfarb, Ran Chen, Tulay Muezzinoglu and John Byrnes. Transformer based Molecule Encoding for Property Prediction | [ML4Molecules_2020_paper_27.pdf](ML4Molecules_2020_paper_27.pdf) |
+| Justin Fu and Sergey Levine. Offline Model-Based Optimization via Normalized Maximum Likelihood Estimation | [ML4Molecules_2020_paper_28.pdf](ML4Molecules_2020_paper_28.pdf) |
+| Dylan Sam and Brenda M. Rubenstein. Hierarchical Clustering Analysis of Spectral Fingerprints for Cheminformatics | [ML4Molecules_2020_paper_29.pdf](ML4Molecules_2020_paper_29.pdf) |
+| Ruoxi Sun, Hanjun Dai, Li Li, Steven Kearnes and Bo Dai. Energy-based View of Retrosynthesis | [ML4Molecules_2020_paper_30.pdf](ML4Molecules_2020_paper_30.pdf) |
+| Ava Soleimany, Alexander Amini, Samuel Goldman, Daniela Rus, Sangeeta Bhatia and Connor Coley. Evidential Deep Learning for Guided Molecular Property Prediction and Discovery | [ML4Molecules_2020_paper_31.pdf](ML4Molecules_2020_paper_31.pdf) |
+| Wujie Wang, Simon Axelrod and Rafael Gomez-Bombarelli. Differentiable Molecular Simulations for Learning and Control | [ML4Molecules_2020_paper_32.pdf](ML4Molecules_2020_paper_32.pdf) |
+| Shitong Luo. A Probabilistic Model for Molecular Geometry Generation and Optimization | [ML4Molecules_2020_paper_33.pdf](ML4Molecules_2020_paper_33.pdf) |
+| Gregor Simm, Robert Pinsler, Gábor Csányi and José Miguel Hernández Lobato. 3D Molecular Design with Covariant Neural Networks | [ML4Molecules_2020_paper_34.pdf](ML4Molecules_2020_paper_34.pdf) |
+| Johannes Klicpera, Shankari Giri, Johannes T. Margraf and Stephan Günnemann. Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules | [ML4Molecules_2020_paper_35.pdf](ML4Molecules_2020_paper_35.pdf) |
+| Lagnajit Pattanaik, Octavian Ganea, Ian Coley, Klavs Jensen, William Green and Connor Coley. Message Passing Networks for Molecules with Tetrahedral Chirality | [ML4Molecules_2020_paper_36.pdf](ML4Molecules_2020_paper_36.pdf) |
+| Fergus Imrie, Anthony R. Bradley and Charlotte M. Deane. Constrained Deep Generative Linker Design Using 3D Structural Priors | [ML4Molecules_2020_paper_37.pdf](ML4Molecules_2020_paper_37.pdf) |
+| Tuan Le, Marco Bertolini, Marc Arne Boef, Floriane Montanari and Djork-Arné Clevert. Going full hyper: hyperbolic and hypercomplex graph embeddings for ADMET modeling | [ML4Molecules_2020_paper_38.pdf](ML4Molecules_2020_paper_38.pdf) |
+| Aneesh Pappu and Brooks Paige. Making Graph Neural Networks Worth It for Low-Data Molecular Machine Learning | [ML4Molecules_2020_paper_39.pdf](ML4Molecules_2020_paper_39.pdf) |
+| Gianluca Tirimbo, Onur Caylak and Bjorn Baumeier. A Kernel based Machine Learning Approach to Computing Quasiparticle Energies within Many-Body Green’s Functions Theory | [ML4Molecules_2020_paper_40.pdf](ML4Molecules_2020_paper_40.pdf) |
+| Bo Pang, Tian Han and Ying Nian Wu. Learning Latent Space Energy-Based Prior Model for Molecule Generation | [ML4Molecules_2020_paper_41.pdf](ML4Molecules_2020_paper_41.pdf) |
+| Hankook Lee, Sungsoo Ahn, Seung-Woo Seo, You Young Song, Eunho Yang, Sung Ju Hwang and Jinwoo Shin. RetCL: A Selection-based Approach for Retrosynthesis via Contrastive Learning | [ML4Molecules_2020_paper_42.pdf](ML4Molecules_2020_paper_42.pdf) |
+| Stephan Eismann, Patricia Suriana, Bowen Jing, Raphael Townshend and Ron Dror. Protein model quality assessment using rotation-equivariant, hierarchical neural networks | [ML4Molecules_2020_paper_43.pdf](ML4Molecules_2020_paper_43.pdf) |
+| Bowen Jing, Stephan Eismann, Patricia Suriana, Raphael Townshend and Ron Dror. Learning from Protein Structure with Geometric Vector Perceptrons | [ML4Molecules_2020_paper_44.pdf](ML4Molecules_2020_paper_44.pdf) |
+| Davide Bacciu and Danilo Numeroso. Explaining Deep Graph Networks with Molecular Counterfactuals | [ML4Molecules_2020_paper_45.pdf](ML4Molecules_2020_paper_45.pdf) |
+| Vitali Nesterov, Mario Wieser and Volker Roth. 3DMolNet: A Generative Network for Molecular Structures | [ML4Molecules_2020_paper_46.pdf](ML4Molecules_2020_paper_46.pdf) |
+| Peter Bjørn Jørgensen and Arghya Bhowmik. DeepDFT: Neural Message Passing Network for Accurate Charge Density Prediction | [ML4Molecules_2020_paper_47.pdf](ML4Molecules_2020_paper_47.pdf) |
+| Nina Lukashina, Alisa Alenicheva, Elizaveta Vlasova, Artem Kondiukov, Aigul Khakimova, Emil Magerramov, Nikita Churikov and Aleksei Shpilman. Lipophilicity Prediction with Multitask Learning and Molecular Substructures Representation | [ML4Molecules_2020_paper_48.pdf](ML4Molecules_2020_paper_48.pdf) |
+| Hao Zhu, Liping Liu and Soha Hassoun. Using Graph Neural Networks for Mass Spectrum Prediction | [ML4Molecules_2020_paper_50.pdf](ML4Molecules_2020_paper_50.pdf) |
+| Gowoon Cheon, Lusann Yang, Kevin McCloskey, Evan Reed and Ekin Cubuk. Crystal Structure Search with Random Relaxations Using Graph Networks | [ML4Molecules_2020_paper_51.pdf](ML4Molecules_2020_paper_51.pdf) |
+| Amina Mollaysa, Brooks Paige and Alexandros Kalousis. Conditional generation of molecules from disentangled representations | [ML4Molecules_2020_paper_52.pdf](ML4Molecules_2020_paper_52.pdf) |
+| Gian Marco Visani, Michael Hughes and Soha Hassoun. Enzyme Promiscuity Prediction using Hierarchical Multi-Label Classification | [ML4Molecules_2020_paper_53.pdf](ML4Molecules_2020_paper_53.pdf) |
+| Agnieszka Pocha, Tomasz Danel and Lukasz Maziarka. Comparison of Atom Representations in Graph Neural Networks for Molecular Property Prediction | [ML4Molecules_2020_paper_54.pdf](ML4Molecules_2020_paper_54.pdf) |
+| Ryan Henderson, Djork-Arné Clevert and Floriane Montanari. Gini in a Bottleneck: Sparse Molecular Representations for Graph Convolutional Neural Networks | [ML4Molecules_2020_paper_55.pdf](ML4Molecules_2020_paper_55.pdf) |
+| Stephen Ra, Vishnu Sresht and Farhan Damani. Black box recursive translations for molecular optimization | [ML4Molecules_2020_paper_56.pdf](ML4Molecules_2020_paper_56.pdf) |
+| Zhuoran Qiao, Feizhi Ding, Matthew Welborn, Peter J. Bygrave, Daniel G. A. Smith, Animashree Anandkumar, Frederick R. Manby and Thomas F. Miller III. Multi-task learning for electronic structure to predict and explore molecular potential energy surfaces | [ML4Molecules_2020_paper_57.pdf](ML4Molecules_2020_paper_57.pdf) |
+| Kobi Felton, Daniel Wigh and Alexei Lapkin. Multi-task Bayesian Optimization of Chemical Reactions | [ML4Molecules_2020_paper_58.pdf](ML4Molecules_2020_paper_58.pdf) |
+| Tian Xie, Arthur France-Lanord, Yanming Wang, Jeffrey Lopez, Michael Austin Stolberg, Megan Hill, Graham Michael Leverick, Rafael Gomez-Bombarelli, Jeremiah A. Johnson, Yang Shao-Horn and Jeffrey Grossman. Accelerate the screening of complex materials by learning to reduce random and systematic errors | [ML4Molecules_2020_paper_59.pdf](ML4Molecules_2020_paper_59.pdf) |
+| Wengong Jin, Regina Barzilay and Tommi Jaakkola. Predicting Synergistic Drug Combinations for COVID with Biological Bottleneck Models | [ML4Molecules_2020_paper_60.pdf](ML4Molecules_2020_paper_60.pdf) |
+| Magdalena Wiercioch and Johannes Kirchmair. Deep Neural Network Approach to Predict Properties of Drugs and Drug-Like Molecules | [ML4Molecules_2020_paper_61.pdf](ML4Molecules_2020_paper_61.pdf) |
+| Luca Thiede, Mario Krenn, Alán Aspuru-Guzik and Akshat Nigam. Curiosity in exploring chemical space: Intrinsic rewards for molecular reinforcement learning | [ML4Molecules_2020_paper_62.pdf](ML4Molecules_2020_paper_62.pdf) |
+| Alexander Tong, Frederik Wenkel, Kincaid MacDonald, Smita Krishnaswamy and Guy Wolf. Data-driven Learning of Geometric Scattering Networks | [ML4Molecules_2020_paper_63.pdf](ML4Molecules_2020_paper_63.pdf) |
+| George Lamb and Brooks Paige. Bayesian GNNs for Molecular Property Prediction | [ML4Molecules_2020_paper_64.pdf](ML4Molecules_2020_paper_64.pdf) |
+| Walid Ahmad. Evaluating chemical descriptors with the loss-data framework | [ML4Molecules_2020_paper_65.pdf](ML4Molecules_2020_paper_65.pdf) |
+| Cynthia Shen, Mario Krenn, Sagi Eppel and Alan Aspuru-Guzik. Deep Molecular Dreaming: Inverse machine learning for de-novo molecular design with surjective representations | [ML4Molecules_2020_paper_66.pdf](ML4Molecules_2020_paper_66.pdf) |
+| Seyone Chithrananda, Gabriel Grand and Bharath Ramsundar. ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular Property Prediction | [ML4Molecules_2020_paper_67.pdf](ML4Molecules_2020_paper_67.pdf) |
+| Shehtab Zaman, Christopher Owen, Kenneth Chiu and Michael Lawler. Graph Neural Network for Metal Organic Framework Potential Energy Approximation | [ML4Molecules_2020_paper_68.pdf](ML4Molecules_2020_paper_68.pdf) |
+| Ali Raza, Faaiq Waqar, Arni Sturluson, Cory Simon and Xiaoli Fern. Towards explainable message passing networks for predicting carbon dioxide adsorption in metal-organic frameworks | [ML4Molecules_2020_paper_69.pdf](ML4Molecules_2020_paper_69.pdf) |
+| Miguel Garcia-Ortegon, Andreas Bender, Carl Rasmussen, Hiroshi Kajino and Sergio Bacallado. Combining variational autoencoder representations with structural descriptors improves prediction of docking scores | [ML4Molecules_2020_paper_70.pdf](ML4Molecules_2020_paper_70.pdf) |
+| Cheng-Hao Liu, Maksym Korablyov, Stanisław Jastrzębski, Paweł Włodarczyk-Pruszyński, Yoshua Bengio and Marwin Segler. RetroGNN: Approximating Retrosynthesis by Graph Neural Networks for De Novo Drug Design | [ML4Molecules_2020_paper_72.pdf](ML4Molecules_2020_paper_72.pdf) |
+| Tomasz Danel, Maciej Szymczak, Łukasz Maziarka, Igor Podolak, Jacek Tabor and Stanisław Jastrzębski. De Novo Drug Design with a Docking Score Proxy | [ML4Molecules_2020_paper_73.pdf](ML4Molecules_2020_paper_73.pdf) |
+| Benedek Fabian, Thomas Edlich, Héléna Gaspar, Marwin Segler, Joshua Meyers, Marco Fiscato and Mohamed Ahmed. Molecular representation learning with language models and domain-relevant auxiliary tasks | [ML4Molecules_2020_paper_74.pdf](ML4Molecules_2020_paper_74.pdf) |
+| Kangway Chuang and Michael Keiser. Attention-Based Learning on Molecular Ensembles | [ML4Molecules_2020_paper_75.pdf](ML4Molecules_2020_paper_75.pdf) |

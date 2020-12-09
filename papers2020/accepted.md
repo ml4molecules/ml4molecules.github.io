@@ -1,4 +1,4 @@
-| Title | pdf |
+| paper | pdf |
 | --- | --- |
 | Ziyang Zhang and Yingtao Luo. Deep spatial learning with molecular vibration | [ML4Molecules_2020_paper_1.pdf](ML4Molecules_2020_paper_1.pdf) |
 | Navneet Bung, Sowmya Ramaswamy Krishnan and Arijit Roy. De novo design of small molecules against drug targets of central nervous system using multi-property optimization | [ML4Molecules_2020_paper_2.pdf](ML4Molecules_2020_paper_2.pdf) |

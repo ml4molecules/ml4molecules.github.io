@@ -1,4 +1,4 @@
-[About](#about) - [Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
+[About](#about) - [Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule) - [Postersession](https://neurips.gather.town/app/GAZQSaarzrrT0QuS/ML4Molecules)
 
 
 ## Schedule
@@ -18,6 +18,8 @@
 - Yannick Djoumbou Feunang (Corteva Agriscience)
 - Klaus-Robert Müller & Kristof Schütt(TU Berlin / BIFOLD)
 
+## Postersession
+Join the Postersession via [GatherTown](https://neurips.gather.town/app/GAZQSaarzrrT0QuS/ML4Molecules) (via NeurIPS SSO login)
 
 ## About
 

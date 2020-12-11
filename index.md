@@ -7,6 +7,8 @@
 
 ## Invited Speakers
 
+[List of Keynote Abstracts](speakers.md)
+
 - Benjamin Sanchez-Lengeling (Google Research)
 - Frank Noé (FU Berlin)
 - Jennifer Listgarten (UC Berkeley)
@@ -14,7 +16,7 @@
 - Pat Walters (Relay Therapeutics)
 - Rocio Mercado (AstraZeneca)
 - Yannick Djoumbou Feunang (Corteva Agriscience)
-- Klaus-Robert Müller (TU Berlin / Google Research)
+- Klaus-Robert Müller & Kristof Schütt(TU Berlin / BIFOLD)
 
 
 ## About

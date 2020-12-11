@@ -1,6 +1,21 @@
-# 2020 Machine Learning for Molecules Workshop
+[About](#about) [Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
 
-[Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
+
+## Schedule
+[See NeurIPS website](https://neurips.cc/virtual/2020/public/workshop_16136.html)
+
+
+## Invited Speakers
+
+- Benjamin Sanchez-Lengeling (Google Research)
+- Frank Noé (FU Berlin)
+- Jennifer Listgarten (UC Berkeley)
+- Nadine Schneider (Novartis)
+- Pat Walters (Relay Therapeutics)
+- Rocio Mercado (AstraZeneca)
+- Yannick Djoumbou Feunang (Corteva Agriscience)
+- Klaus-Robert Müller (TU Berlin / Google Research)
+
 
 ## About
 
@@ -15,16 +30,7 @@ The goal of this workshop is to bring together researchers interested in improvi
 The Machine Learning for Molecules 2020 workshop will be held on December 12, 2020 as a part of the 34th Annual Conference on Neural Information Processing Systems. Originally planned to be in Vancouver, NeurIPS 2020 and this workshop will take place entirely virtually (online). Please use the main conference [website](https://neurips.cc) to register for the workshop.
 
 
-## Invited Speakers
 
-- Benjamin Sanchez-Lengeling (Google Research)
-- Frank Noé (FU Berlin)
-- Jennifer Listgarten (UC Berkeley)
-- Nadine Schneider (Novartis)
-- Pat Walters (Relay Therapeutics)
-- Rocio Mercado (AstraZeneca)
-- Yannick Djoumbou Feunang (Corteva Agriscience)
-- Klaus-Robert Müller (TU Berlin / Google Research)
 
 ## Call for Papers
 
@@ -58,8 +64,6 @@ Submissions should ideally be no longer than 4 pages in [ML4Mols NeurIPS style](
 - Author notification: 27. October 2020
 - Workshop: 12. December 2020
 
-## Schedule
-[See NeurIPS website](https://neurips.cc/virtual/2020/public/workshop_16136.html)
 
 ## Organizing Committee and Contact
 

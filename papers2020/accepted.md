@@ -31,7 +31,6 @@
 | Ruoxi Sun, Hanjun Dai, Li Li, Steven Kearnes and Bo Dai. Energy-based View of Retrosynthesis | [ML4Molecules_2020_paper_30.pdf](ML4Molecules_2020_paper_30.pdf) |
 | Ava Soleimany, Alexander Amini, Samuel Goldman, Daniela Rus, Sangeeta Bhatia and Connor Coley. Evidential Deep Learning for Guided Molecular Property Prediction and Discovery | [ML4Molecules_2020_paper_31.pdf](ML4Molecules_2020_paper_31.pdf) |
 | Wujie Wang, Simon Axelrod and Rafael Gomez-Bombarelli. Differentiable Molecular Simulations for Learning and Control | [ML4Molecules_2020_paper_32.pdf](ML4Molecules_2020_paper_32.pdf) |
-| Shitong Luo. A Probabilistic Model for Molecular Geometry Generation and Optimization | [ML4Molecules_2020_paper_33.pdf](ML4Molecules_2020_paper_33.pdf) |
 | Gregor Simm, Robert Pinsler, Gábor Csányi and José Miguel Hernández Lobato. 3D Molecular Design with Covariant Neural Networks | [ML4Molecules_2020_paper_34.pdf](ML4Molecules_2020_paper_34.pdf) |
 | Johannes Klicpera, Shankari Giri, Johannes T. Margraf and Stephan Günnemann. Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules | [ML4Molecules_2020_paper_35.pdf](ML4Molecules_2020_paper_35.pdf) |
 | Lagnajit Pattanaik, Octavian Ganea, Ian Coley, Klavs Jensen, William Green and Connor Coley. Message Passing Networks for Molecules with Tetrahedral Chirality | [ML4Molecules_2020_paper_36.pdf](ML4Molecules_2020_paper_36.pdf) |

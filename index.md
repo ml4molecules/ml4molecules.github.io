@@ -1,4 +1,4 @@
-[About](#about) [Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
+[About](#about) - [Accepted Papers](papers2020/accepted.md) - [Schedule](#schedule)
 
 
 ## Schedule

@@ -1,3 +1,0 @@
-### Accepted papers
-
-TBA

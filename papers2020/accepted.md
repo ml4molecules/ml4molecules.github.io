@@ -32,7 +32,7 @@
 | Ava Soleimany, Alexander Amini, Samuel Goldman, Daniela Rus, Sangeeta Bhatia and Connor Coley. Evidential Deep Learning for Guided Molecular Property Prediction and Discovery | [ML4Molecules_2020_paper_31.pdf](ML4Molecules_2020_paper_31.pdf) |
 | Wujie Wang, Simon Axelrod and Rafael Gomez-Bombarelli. Differentiable Molecular Simulations for Learning and Control | [ML4Molecules_2020_paper_32.pdf](ML4Molecules_2020_paper_32.pdf) |
 | Gregor Simm, Robert Pinsler, Gábor Csányi and José Miguel Hernández Lobato. 3D Molecular Design with Covariant Neural Networks | [ML4Molecules_2020_paper_34.pdf](ML4Molecules_2020_paper_34.pdf) |
-| Johannes Klicpera, Shankari Giri, Johannes T. Margraf and Stephan Günnemann. Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules | [ML4Molecules_2020_paper_35.pdf](ML4Molecules_2020_paper_35.pdf) |
+| Johannes Gasteiger, Shankari Giri, Johannes T. Margraf and Stephan Günnemann. Fast and Uncertainty-Aware Directional Message Passing for Non-Equilibrium Molecules | [ML4Molecules_2020_paper_35.pdf](ML4Molecules_2020_paper_35.pdf) |
 | Lagnajit Pattanaik, Octavian Ganea, Ian Coley, Klavs Jensen, William Green and Connor Coley. Message Passing Networks for Molecules with Tetrahedral Chirality | [ML4Molecules_2020_paper_36.pdf](ML4Molecules_2020_paper_36.pdf) |
 | Fergus Imrie, Anthony R. Bradley and Charlotte M. Deane. Constrained Deep Generative Linker Design Using 3D Structural Priors | [ML4Molecules_2020_paper_37.pdf](ML4Molecules_2020_paper_37.pdf) |
 | Tuan Le, Marco Bertolini, Marc Arne Boef, Floriane Montanari and Djork-Arné Clevert. Going full hyper: hyperbolic and hypercomplex graph embeddings for ADMET modeling | [ML4Molecules_2020_paper_38.pdf](ML4Molecules_2020_paper_38.pdf) |
